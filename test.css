@@ -1,0 +1,18 @@
+
+.neoimg
+{width: 100%; max-height: 150px; object-fit: cover;}
+.neobd
+{border: 2px solid #fff; border-radius:5px }
+
+.neob {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+
+.aa {
+    color: #cc3333;
+}
+.fs1{
+    font-size: 20px;}
+
+
